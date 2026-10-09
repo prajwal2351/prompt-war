@@ -1,0 +1,7 @@
+{
+  "name": "CityPulse",
+  "description": "Smart city exploration platform featuring interactive map, safety reports, safer route suggestions, place comparisons, and AI cultural guides for Pune.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
